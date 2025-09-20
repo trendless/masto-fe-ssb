@@ -3,9 +3,9 @@
 packaging_format = 2
 
 id = "mastofessb"
-name = "Masto-FE (🦥 flavour)"
-description.en = "A fork of IceShrimp's Masto-FE Standalone made to work well with GoToSocial"
-description.fr = "Un fork de Masto-FE Standalone d'IceShrimp conçu pour fonctionner correctement avec GoToSocial"
+name = "Masto-FE"
+description.en = "Fork of IceShrimp's Masto-FE Standalone made to work well with GoToSocial"
+description.fr = "Fork de Masto-FE Standalone d'IceShrimp conçu pour fonctionner correctement avec GoToSocial"
 
 version = "20250714~ynh4"
 
@@ -17,7 +17,7 @@ demo = "https://masto-fe.superseriousbusiness.org/"
 code = "https://codeberg.org/superseriousbusiness/masto-fe-standalone"
 
 [integration]
-yunohost = ">= 12.0.9"
+yunohost = ">= 12.1.17"
 helpers_version = "2.1"
 architectures = "all"
 multi_instance = true

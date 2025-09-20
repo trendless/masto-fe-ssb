@@ -4,11 +4,11 @@ It shall NOT be edited by hand.
 -->
 
 <h1>
-  <img src="https://raw.githubusercontent.com/YunoHost/apps/main/logos/mastofessb.png" width="32px" alt="Logo of Masto-FE (🦥 flavour)">
-  Masto-FE (🦥 flavour), packaged for YunoHost
+  <img src="https://raw.githubusercontent.com/YunoHost/apps/main/logos/mastofessb.png" width="32px" alt="Logo of Masto-FE">
+  Masto-FE, packaged for YunoHost
 </h1>
 
-A fork of IceShrimp's Masto-FE Standalone made to work well with GoToSocial
+Fork of IceShrimp's Masto-FE Standalone made to work well with GoToSocial
 
 [![App Demo](https://img.shields.io/badge/App_Demo-blue?style=for-the-badge)](https://masto-fe.superseriousbusiness.org/)
 [![Version: 20250714~ynh4](https://img.shields.io/badge/Version-20250714~ynh4-rgb(18,138,11)?style=for-the-badge)](https://ci-apps.yunohost.org/ci/apps/mastofessb/)
@@ -20,13 +20,13 @@ A fork of IceShrimp's Masto-FE Standalone made to work well with GoToSocial
 
 
 ## Screenshots
-![Screenshot of Masto-FE (🦥 flavour)](./doc/screenshots/login.png)
+![Screenshot of Masto-FE](./doc/screenshots/login.png)
 
 ## 📦 Developer info
 
 [![Automatic tests level](https://apps.yunohost.org/badge/cilevel/mastofessb)](https://ci-apps.yunohost.org/ci/apps/mastofessb/)
 
-🛠️ Upstream Masto-FE (🦥 flavour) repository: <https://codeberg.org/superseriousbusiness/masto-fe-standalone>
+🛠️ Upstream Masto-FE repository: <https://codeberg.org/superseriousbusiness/masto-fe-standalone>
 
 Pull request are welcome and should target the [`testing` branch](https://github.com/YunoHost-Apps/mastofessb_ynh/tree/testing).
 
